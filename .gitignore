@@ -1,0 +1,8 @@
+*/config/
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+*/user_guide/
+*/system/
+/license.txt
